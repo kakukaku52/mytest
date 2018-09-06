@@ -14,7 +14,7 @@ public class Test1 {
 
 
 		String str2 = TEST(str, str);
-		//System.out.println(str2);
+		System.out.println(str2);
 		//get_In_Data();
 	}
 
